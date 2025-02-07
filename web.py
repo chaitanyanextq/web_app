@@ -24,7 +24,7 @@ with title_left:
     st.title("NextQ.ai Report Generator")
 with title_right:
     try:
-        logo_path = "image/Screenshot_2025-02-04.png"  # Ensure this is the correct relative path
+        logo_path = "Screenshot 2025-02-04 193738.png"  # Ensure this is the correct relative path
         logo = Image.open(logo_path)
         st.image(logo, width=150)
     except Exception:
