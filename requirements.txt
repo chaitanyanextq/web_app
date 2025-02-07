@@ -1,9 +1,0 @@
-streamlit
-requests
-python-docx
-Pillow
-PyGithub
-pandas
-uuid
-base64
-python==3.9.13
