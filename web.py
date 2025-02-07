@@ -26,7 +26,7 @@ with title_right:
     try:
         logo_path = "Screenshot 2025-02-04 193738.png"  # Ensure this is the correct relative path
         logo = Image.open(logo_path)
-        st.image(logo, width=200)
+        st.image(logo, width=300)
     except Exception:
         st.warning("Logo not found!")
 
